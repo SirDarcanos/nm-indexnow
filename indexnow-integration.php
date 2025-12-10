@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: IndexNow Integration
- * 
+ * Plugin URI:  https://wordpress.org/plugins/indexnow-integration
  * Description: Sends IndexNow pings on publish, update, and trash for posts, pages, and products (WooCommerce).
  * Version:     1.0.0
  * Author:      Nicola Mustone
